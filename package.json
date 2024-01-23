@@ -8,7 +8,7 @@
     "dependencies": {
         "@sap-cloud-sdk/http-client": "^3.8.1",
         "@sap/approuter": "^14.4.0",
-        "@sap/cds": "^6.8.4",
+        "@sap/cds": "^7.5.3",
         "@sap/html5-repo-mock": "^2.1.9",
         "cjs": "^0.0.11",
         "express": "^4",
